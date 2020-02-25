@@ -23,12 +23,12 @@ solve _before_ you start writing JavaScript code.
 ## Use `map` to perform a set of `String` transformations
 
 Write `lowerCaseDrivers` - this function takes an array of drivers, and returns
-an array of the drivers names in lowercase. Write `nameToAttributes` - this
+an array of the drivers names in lowercase. 
+
+Write `nameToAttributes` - this
 function takes an array of drivers with their first and last name separated by a
 space, and returns an array of JavaScript objects with `firstName` and
 `lastName` attributes.
-
-## Use `map` transform a collection of `Object`s
 
 Write `attributesToPhrase` - this function takes an array of drivers as
 JavaScript objects and returns a string saying
